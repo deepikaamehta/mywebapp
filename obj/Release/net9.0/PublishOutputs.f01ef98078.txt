@@ -1,0 +1,7 @@
+/Users/deepika/MyWebApp/publish/MyWebApp
+/Users/deepika/MyWebApp/publish/appsettings.Development.json
+/Users/deepika/MyWebApp/publish/appsettings.json
+/Users/deepika/MyWebApp/publish/MyWebApp.dll
+/Users/deepika/MyWebApp/publish/MyWebApp.deps.json
+/Users/deepika/MyWebApp/publish/MyWebApp.runtimeconfig.json
+/Users/deepika/MyWebApp/publish/MyWebApp.pdb
